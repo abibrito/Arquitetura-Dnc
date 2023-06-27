@@ -9,4 +9,5 @@ Aperfeiçoando e aplicando o código limpo. Respeitando a semântica de cada tec
  - JAVASCRIPT
 
 Gif feito pela extenção de simulação de telas no Chrome, para uma melhor visualização.
+
 <img src="./img/mobile.gif" alt="Gif da landing page">
