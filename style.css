@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+header {
+  background-color: #303030;
+  color: #FFFF;
+  height: 20.5rem;
+  display: flex;
+  flex-direction:column;
+  align-items: start;
+  text-align: start;
+}
+#title-txt {
+  margin: 9rem 0rem 0rem 3rem ;
+}
+
+#title-txt h1 {
+  margin-bottom: 1rem;
+  font-size: 3.3rem
+}
+
+#container-data {
+  background-color: #F9F9F9;
+  height: 10.3rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: start;
+}
+
+#container-data p {
+  font-weight:bold;
+  font-size: x-large;
+}
