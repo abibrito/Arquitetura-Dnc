@@ -90,7 +90,7 @@ form input {
   margin-top: 2rem;
 }
 
-form button {
+#submit {
   background-color: #C07212;
   color: #FFFFFF;
   font-size: 1.8rem;
@@ -99,8 +99,25 @@ form button {
   border-radius: 10px;
   border: 0;
   margin-top: 3rem;
+  padding-left: 0.5rem;
 }
 
-  form button:hover {
-    background-color: #c072128a;
-  } 
+#submit:hover {
+  background-color: #fd9d288a;
+  transition: 0.9s;
+}
+
+.loading {
+  margin-top: 0.2rem;
+  width: 3.5rem;
+  animation: spin 1s infinite linear;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to{
+    transform: rotate(360deg);
+  }
+}
