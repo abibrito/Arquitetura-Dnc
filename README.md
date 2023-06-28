@@ -3,6 +3,10 @@
 Projeto para aprimorar as hablidades de front-end.
 Aperfeiçoando e aplicando o código limpo. Respeitando a semântica de cada tecnologia.
 
+Link do site disponível:
+Link da Planilha de registros de informações: https://docs.google.com/spreadsheets/d/1Muti3TUONNVxepsgX65YSZMJyu7HbE-GFdrPqRJ9kSI/edit
+
+
 ##Tecnologias usadas:
  - HTML
  - CSS
