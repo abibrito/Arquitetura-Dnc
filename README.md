@@ -8,7 +8,7 @@ Link do site disponível: https://arquitetura-by-abibrito.netlify.app/
 Link da Planilha de registros de informações: https://docs.google.com/spreadsheets/d/1Muti3TUONNVxepsgX65YSZMJyu7HbE-GFdrPqRJ9kSI/edit
 
 
-##Tecnologias usadas:
+### Tecnologias usadas:
  - HTML
  - CSS
  - JAVASCRIPT
